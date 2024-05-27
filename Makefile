@@ -1,4 +1,4 @@
-TARGET_NAME := mame2003
+TARGET_NAME := mame2003_mod
 CORE_DIR    := src
 
 DEBUG         ?= 0
