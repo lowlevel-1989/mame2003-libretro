@@ -1112,8 +1112,8 @@ const struct KeyboardInfo retroKeys[] =
     EMITX(MODE),
     EMITX(COMPOSE),
 
-    EMITX(VOLUME_DOWN)
-    EMITX(VOLUME_UP)
+    EMITX(VOLUME_DOWN),
+    EMITX(VOLUME_UP),
 
     EMITX(HELP),
     EMIT2(PRINT, PRTSCR),
